@@ -1,0 +1,3 @@
+Laundry, 1
+Grocery, 1
+Bake, 9
